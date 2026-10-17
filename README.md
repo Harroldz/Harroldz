@@ -7,7 +7,7 @@ IT professional at NYC DOT with a background in Computer Information Systems and
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL, Typescript, C++, HTML, Javascript
 - **IT & Security:** Active Directory, Networking, Endpoint Security
-- **Interests:** Software Engineering, Cloud Security, Automation, Fitness
+- **Interests:** Software Engineering, Cloud Security, Automation, Machine Learning
 
 ### 🚀 Currently
 - Building software projects and strengthening my development skills.
